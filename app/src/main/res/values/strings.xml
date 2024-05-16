@@ -1,0 +1,13 @@
+<resources>
+<string name="app_name">Picto Puzzle</string>
+
+    <string name="help_text_free_play">Welcome to free play.\n\nHere you can pick difficulty level at your leisure and solve as many puzzles as you want.</string>
+    <string name="help_text_arcade_mode">Your goal in Picto Puzzle is to solve a series of puzzles created with photos you take.\n\nOnce you have taken a photo, it\'ll be converted into a puzzle that you solve by selecting tiles and swapping them around until you\'ve restored the photo.  </string>
+    <string name="round">ROUND %1$d</string>
+    <string name="free_play_title">Free Play</string>
+    <string name="game_over_text">GAME OVER</string>
+    <string name="title_text">PICTO PUZZLE</string>
+    <string name="arcade_mode_button_text">Arcade Mode</string>
+    <string name="free_play_button_text">Free Play</string>
+    <string name="continue_text">Continue</string>
+</resources>
